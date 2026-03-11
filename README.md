@@ -17,9 +17,7 @@ This project analyzes hospital readmission patterns among diabetic patients usin
 
 > *Hospital Readmission Analytics Dashboard built in Power BI*
 
-
-<img width="1277" height="717" alt="Healthcare_dashboard_screenshot png" src="https://github.com/user-attachments/assets/8b717e24-ad36-465a-82fa-02fb85219637" />
-
+![Dashboard](dashboard_screenshot.png)
 
 ---
 
@@ -50,11 +48,11 @@ This project analyzes hospital readmission patterns among diabetic patients usin
 ```
 Hospital-Readmission-Analytics/
 │
-├── diabetic_patient_analysis.ipynb            # Python EDA Notebook
-├── diabetic_patient_analysis_dashboard.pbix   # Power BI Dashboard file
-├── diabetes_cleaned.csv                       # Cleaned dataset (if shareable)
-├── dashboard_screenshot.png                   # Dashboard preview image
-└── README.md                                  # Project documentation
+├── diabetic_patient_analysis.ipynb   # Python EDA Notebook
+├── power_diabeties.pbix              # Power BI Dashboard file
+├── diabetes_cleaned.csv              # Cleaned dataset (if shareable)
+├── dashboard_screenshot.png          # Dashboard preview image
+└── README.md                         # Project documentation
 ```
 
 ---
@@ -113,7 +111,7 @@ jupyter notebook diabetic_patient_analysis.ipynb
 
 ### Power BI Dashboard
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/)
-2. Open `diabetic_patient_analysis_dashboard.pbix `
+2. Open `power_diabeties.pbix`
 3. Refresh the data source if needed
 
 ---
@@ -128,10 +126,10 @@ jupyter notebook diabetic_patient_analysis.ipynb
 
 ## 👤 Author
 
-**Vimalraj P**
-- 📧 [Vimalraj0046@gmail.com]
-- 💼 [[linkedin.com/in/vimalraj0046](https://www.linkedin.com/in/vimalraj0046/)]
-- 🐙 [(https://github.com/vimal0046)]
+**[Your Name]**
+- 📧 [your.email@gmail.com]
+- 💼 [LinkedIn Profile URL]
+- 🐙 [GitHub Profile URL]
 
 ---
 
