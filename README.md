@@ -130,7 +130,7 @@ jupyter notebook diabetic_patient_analysis.ipynb
 
 **Vimalraj P**
 - 📧 [Vimalraj0046@gmail.com]
-- 💼 [linkedin.com/in/vimalraj0046]
+- 💼 [[linkedin.com/in/vimalraj0046](https://www.linkedin.com/in/vimalraj0046/)]
 - 🐙 [(https://github.com/vimal0046)]
 
 ---
