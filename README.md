@@ -113,7 +113,7 @@ jupyter notebook diabetic_patient_analysis.ipynb
 
 ### Power BI Dashboard
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/)
-2. Open `iabetic_patient_analysis_dashboard.pbix `
+2. Open `diabetic_patient_analysis_dashboard.pbix `
 3. Refresh the data source if needed
 
 ---
