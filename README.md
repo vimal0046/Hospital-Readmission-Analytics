@@ -17,7 +17,8 @@ This project analyzes hospital readmission patterns among diabetic patients usin
 
 > *Hospital Readmission Analytics Dashboard built in Power BI*
 
-![Dashboard](<img width="1277" height="717" alt="Healthcare_dashboard_screenshot png" src="https://github.com/user-attachments/assets/8b717e24-ad36-465a-82fa-02fb85219637" />
+![Dashboard]
+(<img width="1277" height="717" alt="Healthcare_dashboard_screenshot png" src="https://github.com/user-attachments/assets/8b717e24-ad36-465a-82fa-02fb85219637" />
 )
 
 ---
